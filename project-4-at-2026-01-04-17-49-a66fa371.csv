@@ -1,0 +1,21 @@
+annotation_id,annotator,created_at,id,lead_time,sentiment,text,updated_at
+,,,,,,,
+2,1,2026-01-04T11:57:50.481254Z,1,4.846,Complaint,"1. ""Customer wants refund because product is damaged""",2026-01-04T11:57:50.481295Z
+,,,,,,,
+3,1,2026-01-04T12:00:42.980437Z,2,7.115,Image Description,"2. ""The image contains a cat sitting on a sofa""",2026-01-04T12:00:42.980474Z
+,,,,,,,
+4,1,2026-01-04T12:01:02.576504Z,3,16.91,Query/Information,"3. ""User is asking for best laptop under 50k""",2026-01-04T12:01:02.576538Z
+,,,,,,,
+5,1,2026-01-04T12:01:09.565651Z,4,5.018,Positive Feedback,"4. ""The text expresses positive feedback about the app""",2026-01-04T12:01:09.565673Z
+,,,,,,,
+6,1,2026-01-04T12:01:26.028441Z,5,13.421,Image Description,"5. ""Person is riding a bicycle on a road""",2026-01-04T12:01:26.028480Z
+,,,,,,,
+7,1,2026-01-04T12:01:32.464062Z,6,4.363,Complaint,"6. ""Complaint: delivery was late by 3 days""",2026-01-04T12:01:32.464097Z
+,,,,,,,
+8,1,2026-01-04T12:01:49.959569Z,7,14.968,Query/Information,"7. ""Query intent: user needs a budget phone""",2026-01-04T12:01:49.959609Z
+,,,,,,,
+9,1,2026-01-04T12:01:55.875512Z,8,4.138,Image Description,"8. ""The video contains outdoor sports activity""",2026-01-04T12:01:55.875548Z
+,,,,,,,
+10,1,2026-01-04T12:02:03.536826Z,9,4.242,Suggestion/Tool Feedback,"9. ""Feedback: UI is confusing, needs improvement""",2026-01-04T12:02:03.536865Z
+,,,,,,,
+11,1,2026-01-04T12:02:18.782376Z,10,3.015,Action Request,"10. ""User wants hotel booking in Gurgaon""",2026-01-04T12:02:18.782396Z

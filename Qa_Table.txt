@@ -1,0 +1,12 @@
+| Task # | Sentence                                           | Assigned Label           | QA Comment                                     
+| ------ | -------------------------------------------------- | ------------------------ | ---------------------------------------------- 
+| 1      | Customer wants refund because product is damaged   | Complaint                |  Correct, clear and unambiguous               
+| 2      | The image contains a cat sitting on a sofa         | Image Description        |  Correct, description matches content         
+| 3      | User is asking for best laptop under 50k           | Query/Information        |  Correct, matches query intent                
+| 4      | The text expresses positive feedback about the app | Positive Feedback        | Correct, sentiment labeled properly          
+| 5      | Person is riding a bicycle on a road               | Image Description        |  Correct, matches visual description          
+| 6      | Complaint: delivery was late by 3 days             | Complaint                |  Correct, clearly a complaint                 
+| 7      | Query intent: user needs a budget phone            | Query/Information        |  Correct, query intent clear                  
+| 8      | The video contains outdoor sports activity         | Image Description        |  Correct, visual content described accurately 
+| 9      | Feedback: UI is confusing, needs improvement       | Suggestion/Tool Feedback |  Could also be Complaint, slightly ambiguous  
+| 10     | User wants hotel booking in Gurgaon                | Action Request           | Correct, action requested clearly            
